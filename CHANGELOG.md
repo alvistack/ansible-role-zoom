@@ -1,6 +1,8 @@
 # Ansible Role for Zoom
 
-## 9.0.0 - TBC
+## 9.1.0 - TBC
+
+## 9.0.0 - 2023-11-08
 
 -   Ininitial release for Ansible 2.10 or higher
 -   This role was designed for:
